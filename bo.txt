@@ -16,6 +16,3 @@ if result:
     print(f"The product '{target}' was found at indices: {result}")
 else:
     print(f"The product '{target}' was not found in the list.")
-
-
-
